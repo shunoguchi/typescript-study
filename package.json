@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/shunoguchi/typescript-study/issues"
   },
-  "homepage": "https://github.com/shunoguchi/typescript-study#readme"
+  "homepage": "https://github.com/shunoguchi/typescript-study#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
